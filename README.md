@@ -3,7 +3,7 @@ Junior Web Developer with more than 2 years of experience. </br>
 I have good knowledge in frontend development.
 
 <p align='center'>
-  <a href="https://github.com/SergoWicked/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergoWicked&layout=compact&theme=city_lights&show_icons=true&border_color=30363d&bg_color=21262d&text_color=c9d1d9&title_color=c9d1d9"/></a>  
+  <a href="https://github.com/SergoWicked/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergoWicked&layout=compact&show_icons=true&border_color=30363d&bg_color=21262d&text_color=c9d1d9&title_color=c9d1d9"/></a>  
 </p>
 
 <p align='center'>
