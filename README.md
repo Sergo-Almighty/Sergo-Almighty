@@ -31,12 +31,16 @@ I have good knowledge in frontend development.
 ### My opensource projects
 *   [Checking MD5 hash for viruses](https://github.com/SergoWicked/MD5) - The script is designed to extract MD5 hash files from the database and check them for viruses.
 
-<!-- ### Donate
+### Donate
 <p align='center'>
+  <a href="https://www.paypal.com/donate/?hosted_button_id=H3H6DWMGP7AY2"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/></a>  
+  <a href="https://send.monobank.ua/2oGxvPfGnJ"><img src="https://img.shields.io/badge/monobank-black?style=for-the-badge"/></a>
+<!-- 
   <a href=""><img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"/></a>
   <a href=""><img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white"/></a>
-  <a href=""><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/></a>
-</p> -->
+   -->
+</p>
+
 
 ## 📈 Github Stats
 
