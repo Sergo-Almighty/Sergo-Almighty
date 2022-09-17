@@ -54,9 +54,9 @@ I have good knowledge in frontend development.
    <a href="https://github.com/SergoWicked/SergoWicked">
        <img width="150px" src="https://komarev.com/ghpvc/?username=SergoWicked&color=DE002D">
    </a>
-   <a href="https://github.com/Sergo-Almighty/Sergo-Almighty">
+<!--    <a href="https://github.com/Sergo-Almighty/Sergo-Almighty">
        <img width="150px" src="https://komarev.com/ghpvc/?username=Sergo-Almighty&color=DE002D">
-   </a>
+   </a> -->
 </div>
 
 
