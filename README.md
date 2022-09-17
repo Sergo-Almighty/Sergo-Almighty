@@ -3,7 +3,7 @@ Junior Web Developer with more than 2 years of experience. </br>
 I have good knowledge in frontend development.
 
 <p align='center'>
-  <a href="https://github.com/Sergo-Almighty/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sergo-Almighty&layout=compact&show_icons=true&border_color=30363d&bg_color=21262d&text_color=c9d1d9&title_color=c9d1d9"/></a>  
+  <a href="https://github.com/SergoAlmighty/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergoAlmighty&layout=compact&show_icons=true&border_color=30363d&bg_color=21262d&text_color=c9d1d9&title_color=c9d1d9"/></a>  
 </p>
 
 <p align='center'>
@@ -29,7 +29,7 @@ I have good knowledge in frontend development.
 *   GitHub, GitLab, Bitbucket;
 
 ### My opensource projects
-*   [Checking MD5 hash for viruses](https://github.com/Sergo-Almighty/MD5) - The script is designed to extract MD5 hash files from the database and check them for viruses.
+*   [Checking MD5 hash for viruses](https://github.com/SergoAlmighty/MD5) - The script is designed to extract MD5 hash files from the database and check them for viruses.
 
 ### Donate
 <p align='center'>
@@ -45,7 +45,7 @@ I have good knowledge in frontend development.
 ## 📈 Github Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Sergo-Almighty&layout=compact&theme=city_lights&count_private=true&show_icons=true&border_color=30363d&bg_color=21262d&text_color=c9d1d9&title_color=c9d1d9%icon_color=e28905" align="center"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=SergoAlmighty&layout=compact&theme=city_lights&count_private=true&show_icons=true&border_color=30363d&bg_color=21262d&text_color=c9d1d9&title_color=c9d1d9%icon_color=e28905" align="center"/>
 </div>
 
 </br>
@@ -54,9 +54,6 @@ I have good knowledge in frontend development.
    <a href="https://github.com/SergoWicked/SergoWicked">
        <img width="150px" src="https://komarev.com/ghpvc/?username=SergoWicked&color=DE002D">
    </a>
-<!--    <a href="https://github.com/Sergo-Almighty/Sergo-Almighty">
-       <img width="150px" src="https://komarev.com/ghpvc/?username=Sergo-Almighty&color=DE002D">
-   </a> -->
 </div>
 
 
@@ -84,7 +81,7 @@ I have good knowledge in frontend development.
   
   
 <!--
-**Sergo-Almighty/Sergo-Almighty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SergoAlmighty/SergoAlmighty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
