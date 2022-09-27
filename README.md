@@ -29,7 +29,7 @@ I have good knowledge in frontend development.
 *   GitHub, GitLab, Bitbucket;
 
 ### My opensource projects
-*   [Checking MD5 hash for viruses](https://github.com/SergoAlmighty/MD5) - The script is designed to extract MD5 hash files from the database and check them for viruses.
+*   [Checking MD5 hash for viruses](https://github.com/SergoWicked/MD5) - The script is designed to extract MD5 hash files from the database and check them for viruses.
 
 ### Donate
 <p align='center'>
@@ -45,7 +45,7 @@ I have good knowledge in frontend development.
 ## 📈 Github Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=SergoAlmighty&layout=compact&theme=city_lights&count_private=true&show_icons=true&border_color=30363d&bg_color=21262d&text_color=c9d1d9&title_color=c9d1d9%icon_color=e28905" align="center"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=SergoWicked&layout=compact&theme=city_lights&count_private=true&show_icons=true&border_color=30363d&bg_color=21262d&text_color=c9d1d9&title_color=c9d1d9%icon_color=e28905" align="center"/>
 </div>
 
 </br>
@@ -81,7 +81,7 @@ I have good knowledge in frontend development.
   
   
 <!--
-**SergoAlmighty/SergoAlmighty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SergoWicked/SergoWicked** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
