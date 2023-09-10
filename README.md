@@ -1,4 +1,4 @@
-# Hi, I'm Sergey. 
+# Hi, I'm Serhiy. 
 Junior Web Developer with more than 2 years of experience. </br>
 I have good knowledge in frontend development.
 
