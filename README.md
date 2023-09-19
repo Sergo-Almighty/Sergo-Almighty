@@ -1,5 +1,5 @@
 # Hi, I'm Sergiy. 
-Junior Web Developer with more than 2 years of experience. </br>
+Web Developer with more than 2 years of experience. </br>
 I have good knowledge in frontend development.
 
 <p align='center'>
@@ -27,6 +27,7 @@ I have good knowledge in frontend development.
 *   MySQL, MongoDB;
 *   WordPress, WooCommerce, Opencart;
 *   GitHub, GitLab, Bitbucket;
+*   Adobe Photoshop, Figma;
 
 ### My opensource projects
 *   [Checking MD5 hash for viruses](https://github.com/SergoAlmighty/MD5) - The script is designed to extract MD5 hash files from the database and check them for viruses.
