@@ -25,7 +25,7 @@ I have good knowledge in frontend development.
 ## 🛠 Technical Stack
 *   HTML5, CSS3, JavaScript, Bootstrap, PHP, JQuery;
 *   MySQL, MongoDB;
-*   WordPress, WooCommerce, Opencart;
+*   WordPress, WooCommerce;
 *   GitHub, GitLab, Bitbucket;
 *   Adobe Photoshop, Figma;
 
