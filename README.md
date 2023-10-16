@@ -13,7 +13,7 @@ I have good knowledge in frontend development.
 </p>
 
 <p align='center'>
-   📫 How to reach me:   <a align='center' href='mailto:fan1235@gmail.com'><img align='center' src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&"/></a>
+   📫 How to reach me:   <a align='center' href='mailto:sergiy.chernyshevych@gmail.com'><img align='center' src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&"/></a>
 </p>
 
 <!-- 
